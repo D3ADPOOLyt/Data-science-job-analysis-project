@@ -34,12 +34,19 @@ Enhancements and Modifications:
 Several enhancements and modifications were made to the datasets to improve clarity and usability:
 
 #Addition of the "Job Category" column to the 2020-2024 dataset.
+
 #Rearrangement of columns for better clarity and organization.
+
 #Use of ChatGPT and XLOOKUP in Excel to map job titles to their respective job categories.
+
 #Replacement of ISO codes with country names for the "Employee Residence" and "Company Location" columns.
+
 #Conversion of employment types from "FT" to "Full-time".
+
 #Adjustment of work settings from "100, 50, 0" to "Remote, Hybrid, In-person" for clarity and consistency.
+
 #Data Cleaning and Integration:
+
 Following these enhancements and modifications, the datasets underwent thorough cleaning to remove any inconsistencies, errors, or duplicate entries. Once cleaned, the datasets were combined to create a unified dataset ready for analysis.
 
 Conclusion:
